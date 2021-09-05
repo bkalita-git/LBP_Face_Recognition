@@ -1,0 +1,12 @@
+test/friends/hirak/0.jpg
+test/friends/tapabrat/tapa1.jpg
+test/friends/ranjan/ranjan2.jpg
+test/friends/ranjan/ranjan5.jpg
+test/friends/ranjan/ranjan1.jpg
+test/friends/labhita/labhita.jpg
+test/friends/mrinmoy/mrinmoy.jpg
+test/friends/kangkan/kangkan2.jpg
+test/friends/kangkan/kangkan3.jpg
+test/friends/kangkan/kangkan6.jpg
+test/friends/pranjal/pranjal2.jpg
+test/friends/pranjal/pranjal1.jpg
